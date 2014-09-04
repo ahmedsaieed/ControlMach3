@@ -1,0 +1,11 @@
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\bin\Debug\ControlMach3.exe.config
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\bin\Debug\ControlMach3.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\bin\Debug\ControlMach3.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\bin\Debug\WindowsInput.dll
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\bin\Debug\WindowsInput.xml
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.exe
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.pdb
+c:\users\ahmed\documents\visual studio 2012\Projects\ControlMach3\ControlMach3\obj\Debug\ControlMach3.Form1.resources
